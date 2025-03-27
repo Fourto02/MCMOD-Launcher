@@ -1,0 +1,15 @@
+F:\Savefile\VS\FourtoMC\updater\bin\Release\updater.exe.config
+F:\Savefile\VS\FourtoMC\updater\bin\Release\updater.exe
+F:\Savefile\VS\FourtoMC\updater\bin\Release\updater.pdb
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.csproj.AssemblyReference.cache
+F:\Savefile\VS\FourtoMC\updater\obj\Release\MainWindow.g.cs
+F:\Savefile\VS\FourtoMC\updater\obj\Release\App.g.cs
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater_MarkupCompile.cache
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater_MarkupCompile.lref
+F:\Savefile\VS\FourtoMC\updater\obj\Release\MainWindow.baml
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.g.resources
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.Properties.Resources.resources
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.csproj.GenerateResource.cache
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.csproj.CoreCompileInputs.cache
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.exe
+F:\Savefile\VS\FourtoMC\updater\obj\Release\updater.pdb

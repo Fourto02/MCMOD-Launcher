@@ -1,0 +1,1 @@
+taskkill /IM "FourtoMC.exe" /T /F
