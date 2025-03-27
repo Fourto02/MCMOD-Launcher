@@ -1,0 +1,15 @@
+F:\Savefile\VS\FourtoMC\FourtoMC\bin\Debug\FourtoMC.exe.config
+F:\Savefile\VS\FourtoMC\FourtoMC\bin\Debug\FourtoMC.exe
+F:\Savefile\VS\FourtoMC\FourtoMC\bin\Debug\FourtoMC.pdb
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.csproj.AssemblyReference.cache
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\MainWindow.g.cs
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\App.g.cs
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC_MarkupCompile.cache
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC_MarkupCompile.lref
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\MainWindow.baml
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.g.resources
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.Properties.Resources.resources
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.csproj.GenerateResource.cache
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.csproj.CoreCompileInputs.cache
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.exe
+F:\Savefile\VS\FourtoMC\FourtoMC\obj\Debug\FourtoMC.pdb
